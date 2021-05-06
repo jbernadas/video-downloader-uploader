@@ -1,0 +1,4 @@
+*.log
+files_for_upload/*
+!files_for_upload/.gitkeep
+venv/
